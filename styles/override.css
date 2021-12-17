@@ -1,0 +1,81 @@
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.dropdowna {
+    color: white;
+}
+
+.aboutme3  {
+    width: 200px; height: 300px;
+    float: right;
+}
+
+li {
+    font-size: 15fpx;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+span {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+
+.underline {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.poverride {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.aboutme1 {
+    width: 645px; height: 415px;
+    position: relative;
+}
+
+.aboutme2 {
+    width:645px; height: 415px;
+    position: relative;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .backtotop {
+      margin-left: 120px;
+  }
+
+  .home2 {
+      width: 600px; height: 400px;
+  }
+
+  .home3 {
+      float: right;
+      width: 600px; height: 400px;
+  }
+
